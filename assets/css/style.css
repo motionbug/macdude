@@ -929,7 +929,7 @@ blockquote:before {
 }
 
 #main-sidebar:before {
-	background-color: rgba(221,75,56,0.75);
+	background-color: #a0bc54;
 	content: "";
 	display: block;
 	position: absolute;
